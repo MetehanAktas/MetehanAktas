@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpython-code&psig=AOvVaw1gLiU0iQooa0_nXdkYc8Bi&ust=1702161603290000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDJgJf0gIMDFQAAAAAdAAAAABAI
+
+![github-header-image](https://github.com/MetehanAktas/MetehanAktas/assets/153330126/9e529a9c-2923-44bf-9add-b8cce0027c2f)
 
 
 
