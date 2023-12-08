@@ -1,5 +1,6 @@
 
-![github-header-image](https://github.com/MetehanAktas/MetehanAktas/assets/153330126/9e529a9c-2923-44bf-9add-b8cce0027c2f)
+![github-header-image (1)](https://github.com/MetehanAktas/MetehanAktas/assets/153330126/c3ec37a1-4748-4242-9c13-92751c31f93f)
+
 
 
 
