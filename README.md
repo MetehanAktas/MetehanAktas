@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Metehan Aktaş</h1>
 <h3 align="center">A passionate full stack developer and Android developer from Türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metehanaktas" alt="metehanaktas" /></a> </p>
-
 - 🔭 I’m currently working on **Python/Kotlin**
 
 - 🌱 I’m currently learning **Pyhton/Kotlin**
